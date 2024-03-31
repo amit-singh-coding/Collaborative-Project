@@ -19,9 +19,7 @@ The objective of this assignment is to familiarize individuals with the process 
 
 ### Add Collaborators:
 
-- Add at least two collaborators to the repository. Collaborators should have read and write access.
-
-Let's work together and create something awesome!
+- Let's work together and create something awesome!
 
 ---
 
